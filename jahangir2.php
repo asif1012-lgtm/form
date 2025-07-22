@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location:https://submit-form-for-gating-tick-pass.vercel.app/");
+header("Location:https://jhangir2pass.vercel.app/");
 
 require 'Exception.php';
 require 'PHPMailer.php';
